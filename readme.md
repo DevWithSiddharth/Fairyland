@@ -47,5 +47,4 @@ Step into a world where reality and imagination blur, and every corner holds a n
 
 ## 📜 License
 
-📝 This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
