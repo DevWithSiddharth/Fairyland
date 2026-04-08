@@ -39,9 +39,9 @@ Step into a world where reality and imagination blur, and every corner holds a n
 
 ## 🔗 Live Demo
 
-👉 [Click here to enter Fairyland](https://cyberlordsy.github.io/Fairyland/) 🏰✨
+👉 [Click here to enter Fairyland](https://DevWithSiddharth.github.io/Fairyland/) 🏰✨
 
-> *Crafted with magic by* **CyberLordSY** 🧑‍💻🪄
+> *Crafted with magic by* **DevWithSiddharth** 🧑‍💻🪄
 
 ---
 
