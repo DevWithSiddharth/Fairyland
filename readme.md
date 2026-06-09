@@ -1,5 +1,5 @@
 # 🧚‍♀️✨ Fun 'n' Fairy Land ✨🧚‍♂️  
-**Where imagination thrives and dreams take flight!** 🌈🌟  
+**Where imagination thrives and dreams take flight!** 🌈 
 
 Welcome to **Fun 'n' Fairy Land**, a magical destination where storytelling meets wonder. Dive into immersive adventures, meet whimsical characters, and explore vibrant realms designed to ignite your imagination! 🌸🦄
 
